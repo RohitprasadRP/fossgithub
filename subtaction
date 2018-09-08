@@ -1,0 +1,4 @@
+Aim=Aiethmatic operation a=int(input("enter value for a:"))
+b=int(input("enter value for b:"))
+print("subtraction,"(a-b))
+Ans=enter value for a:85 anter value for b:35 subtraction is=50
